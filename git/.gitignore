@@ -1,4 +1,4 @@
 //ignore env
 .env
 //igore emacs
-emacs *
+~emacs
